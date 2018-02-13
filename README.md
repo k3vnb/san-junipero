@@ -7,6 +7,10 @@
 ## Description
 
 _Advert for luxury meta-destination. Features include banner image, nav bar, featured client, bootstrap cards displaying various packages, media query for mobile device compatibility_
+It is deployed at: https://lemurriot.github.io/san-junipero/
+
+### Screenshot:
+![Screenshot](img/screenshot.png?raw=true)
 
 ## Setup/Installation Requirements
 
@@ -29,3 +33,12 @@ _HTML, CSS, Bootstrap_
 *CC*
 
 Copyright (c) 2017 **_Colin Worf, Mikey Pinaud, Kevin Boyle, with apologies to the BBC_**
+
+
+
+
+
+
+
+
+
